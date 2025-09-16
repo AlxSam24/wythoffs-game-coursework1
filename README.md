@@ -2,6 +2,7 @@
 
 A Java implementation of **Wythoff’s Game**, also known as the **Last Biscuit Game**.  
 This was my **first-year university coursework** and my introduction to programming in Java.
+Basic programming skills are used as this is when I started learning java so no OOP demonstrated here.  
 
 ---
 
@@ -19,7 +20,7 @@ This was my **first-year university coursework** and my introduction to programm
 - Constants for easier code maintenance.  
 - Input validation for integers and legal moves.  
 - Turn-based gameplay with clear prompts.  
-- Tracks skip usage for each player.  
+- Tracks skip usage for each player.   
 
 ---
 
