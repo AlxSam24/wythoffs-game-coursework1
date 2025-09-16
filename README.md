@@ -37,7 +37,8 @@ Basic programming skills are used as this is when I started learning java so no 
 - Allow variable starting biscuit counts.
 - Improve user interface for clarity.
 - Use OOP.
-- Create exceptions for errors. 
+- Create exceptions for errors.
+- Limmit how many skip a player can have.
 
 ---
 
@@ -54,6 +55,8 @@ Basic programming skills are used as this is when I started learning java so no 
   - Assume that when the program expects specific strings only those strings are input and will ask the user to re-enter data if incorrect.
  
 - Level 3- Is the same as level 2 apart from an addtional validation check is added which is making sure the numbers are within the range (not exceeding the number in the barrel and no negative numbers).
+
+- Level 4 (LastBiscuit)- Is where the skip option is implemented allowing the player to skip their turn. This is the final finished version of the game. 
 
 
   ---
