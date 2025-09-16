@@ -24,6 +24,23 @@ Basic programming skills are used as this is when I started learning java so no 
 
 ---
 
+## 📚 What I Learned 
+- Basic Java Syntax and program stucture.
+- Using constants and string formatting for maintenance.
+- Basic error handling and validating errors.
+- Implementing a turn-based game loop.
+
+---
+
+## ✨ Future Improvements
+- Add a computer player with simple AI.
+- Allow variable starting biscuit counts.
+- Improve user interface for clarity.
+- Use OOP.
+- Create exceptions for errors. 
+
+---
+
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
