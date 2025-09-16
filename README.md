@@ -52,6 +52,11 @@ Basic programming skills are used as this is when I started learning java so no 
 - Level 2- Is the same as level 1 however additional validation features have been added by assuming some of the user input is correct for example:
   - Check that integer input is correct and will ask the user to re-enter data that is not an integer.
   - Assume that when the program expects specific strings only those strings are input and will ask the user to re-enter data if incorrect.
+ 
+- Level 3- Is the same as level 2 apart from an addtional validation check is added which is making sure the numbers are within the range (not exceeding the number in the barrel and no negative numbers).
+
+
+  ---
   
 
 ## 🚀 How to Run
